@@ -1,0 +1,62 @@
+[
+    {
+        "id": "el1",
+        "name": "Зимний сад",
+        "img": "img/catalog/Winter Garden.jpg",
+        "price": 3579
+    },
+    {
+        "id": "el2",
+        "name": "Тень сакуры",
+        "img": "img/catalog/the sakura.jpg",
+        "price": 3899
+    },
+    {
+        "id": "el3",
+        "name": "Дом для принцессы",
+        "img": "img/catalog/A house for a princess.jpg",
+        "price": 5259
+    },
+    {
+        "id": "el4",
+        "name": "Скандинавский Лофт",
+        "img": "img/catalog/Scandinavian Loft.jpg",
+        "price": 3259
+    },
+    {
+        "id": "el5",
+        "name": "Лесная сказка",
+        "img": "img/catalog/Forest fairy tale.jpg",
+        "price": 5989
+    },
+    {
+        "id": "el6",
+        "name": "Котокафе",
+        "img": "img/catalog/Kotokafe.jpg",
+        "price": 3759
+    },
+    {
+        "id": "el7",
+        "name": "Чайный дом",
+        "img": "img/catalog/Tea House.jpg",
+        "price": 3759
+    },
+    {
+        "id": "el8",
+        "name": "Лаунж кафе",
+        "img": "img/catalog/Lounge Cafe.jpg",
+        "price": 3259
+    },
+    {
+        "id": "el9",
+        "name": "Старый город",
+        "img": "img/catalog/Old Town.jpg",
+        "price": 6989
+    },
+    {
+        "id": "el10",
+        "name": "Библиотека",
+        "img": "img/catalog/Library.jpg",
+        "price": 2789
+    }
+]
